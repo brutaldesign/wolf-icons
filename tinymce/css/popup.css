@@ -1,0 +1,41 @@
+body {
+	height:auto; 
+	background: none!important;
+}
+
+#wolf-icon-list{
+	margin-bottom:30px;
+}
+
+.wolf-icon-box{
+	padding: 1em;
+}
+
+.unique{
+	position:relative;
+	left:10px;
+}
+
+.wolf-field{
+	margin:20px 0;
+	font-size:14px;
+}
+
+#wolf-icon-search{
+	margin:20px 0;
+}
+
+#wolf-icon-search label{
+	font-size:16px;
+	font-weight:700;
+	display:block;
+	margin-bottom:5px;
+	text-align:center;
+}
+
+#wis{
+	width:98%;
+	font-size:14px;
+	padding:8px;
+}
+

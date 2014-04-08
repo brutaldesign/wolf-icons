@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Icons\n"
+"POT-Creation-Date: 2014-04-08 16:27+0100\n"
+"PO-Revision-Date: 2014-04-08 16:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: wpwolf.com <support@wpwolf.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../list.php:216 ../wolf-icons.php:151 ../pack/wolf-icons/list.php:216
+#: ../pack/wolf-icons/wolf-icons.php:151
+msgid "Icons List"
+msgstr ""
+
+#: ../list.php:218 ../pack/wolf-icons/list.php:218
+msgid "You can use the Icon shortcode generator in your text editor."
+msgstr ""
+
+#: ../list.php:219 ../pack/wolf-icons/list.php:219
+msgid ""
+"To use the icon shortcodes in your posts and pages, you can use the "
+"following shortcode using the icon's name in the name atrribute e.g:"
+msgstr ""
+
+#: ../list.php:221 ../pack/wolf-icons/list.php:221
+msgid "more details"
+msgstr ""
+
+#: ../list.php:223 ../pack/wolf-icons/list.php:223
+msgid "Icon list"
+msgstr ""
+
+#: ../list.php:236 ../pack/wolf-icons/list.php:236
+msgid ""
+"To use the icon shortcodes in your posts and pages, you can use the "
+"shortcode:"
+msgstr ""
+
+#: ../list.php:241 ../pack/wolf-icons/list.php:241
+msgid "You can optionally pass many optional attributes to your shortcode:"
+msgstr ""
+
+#: ../list.php:250 ../pack/wolf-icons/list.php:250
+msgid ""
+"To use the icon shortcodes as HTML snippets in your templates, add the "
+"<code>wolf-icon-</code> prefix  to the icon name in your tag class:"
+msgstr ""
+
+#: ../list.php:255 ../pack/wolf-icons/list.php:255
+msgid "To add a scale value (2 to 10):"
+msgstr ""
+
+#: ../list.php:262 ../pack/wolf-icons/list.php:262
+msgid "To add a background:"
+msgstr ""
+
+#: ../list.php:271 ../pack/wolf-icons/list.php:271
+msgid "To make the icon spin:"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:205 ../tinymce/popup.php:205
+msgid "Please select an icon"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:287 ../tinymce/popup.php:287
+msgid "Search"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:300 ../tinymce/popup.php:300
+msgid "Basic Settings"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:302 ../tinymce/popup.php:302
+msgid "Scale"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:318 ../tinymce/popup.php:318
+msgid "Type"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:320 ../tinymce/popup.php:320
+msgid "Normal"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:321 ../tinymce/popup.php:321
+msgid "Round background"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:322 ../tinymce/popup.php:322
+msgid "Square background"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:327 ../tinymce/popup.php:327
+msgid "Align"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:329 ../tinymce/popup.php:329
+msgid "None"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:330 ../tinymce/popup.php:330
+msgid "Left"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:331 ../tinymce/popup.php:331
+msgid "Right"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:332 ../tinymce/popup.php:332
+msgid "Center"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:337 ../tinymce/popup.php:337
+msgid "Spinning (for loader)"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:341 ../tinymce/popup.php:341
+msgid "Link Settings"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:344 ../tinymce/popup.php:344
+msgid "Link URL (optional)"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:348 ../tinymce/popup.php:348
+msgid "Open link in a new tab (if the icon is linked to an URL)"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:352 ../tinymce/popup.php:352
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:354 ../tinymce/popup.php:354
+msgid "CSS Class"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:358 ../tinymce/popup.php:358
+msgid "Styles"
+msgstr ""
+
+#: ../pack/wolf-icons/tinymce/popup.php:364 ../tinymce/popup.php:364
+msgid "Insert in post"
+msgstr ""
