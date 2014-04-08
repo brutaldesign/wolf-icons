@@ -8,7 +8,7 @@ http://icomoon.io/app/
 	font-family: 'WolfIconFont';
 	src:url('../fonts/icomoon.eot');
 	src:url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/icomoon.svg#wolf-icon') format('svg'),
+		url('../fonts/icomoon.svg#icomoon') format('svg'),
 		url('../fonts/icomoon.woff') format('woff'),
 		url('../fonts/icomoon.ttf') format('truetype');
 	font-weight: normal;
@@ -18,7 +18,6 @@ http://icomoon.io/app/
 [class^="wolf-icon-"],
 [class*=" wolf-icon-"] {
 	font-family: 'WolfIconFont';
-	-webkit-font-smoothing: antialiased;
 	font-weight: 400!important;
 	font-style: normal!important;
 	text-decoration: none!important;
@@ -32,7 +31,10 @@ http://icomoon.io/app/
 	background-repeat: repeat;
 	position: relative;
 	border: none!important;
-
+	
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 .wolf-icon-align-left, .wolf-icon-align-right{
